@@ -1,1 +1,4 @@
-My first readme:
+Alx project
+github
+emacs command
+vi insert mode
